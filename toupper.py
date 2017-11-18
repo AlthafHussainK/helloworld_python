@@ -2,4 +2,4 @@
 
 lower = "hello world!"
 
-print lower.upper()
+print (lower.upper())
